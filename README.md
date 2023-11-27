@@ -1,2 +1,2 @@
 # Agenda
-agenda application with Java, Springboot API, and Flutter front
+Agenda application with Java, Springboot API, and Flutter front
